@@ -17,11 +17,11 @@
 
 ## About Me
 
-I build production-grade software — from live MERN platforms to AI-powered classification systems. Currently completing my **B.Tech CSE (9.36 CGPA) + BBA Finance (8.88 CGPA)** at KL University, graduating 2026.
+I build production-grade software — from live MERN platforms to AI-powered classification systems. Currently completed my **B.Tech CSE (9.36 CGPA) + BBA Finance (8.88 CGPA)** at KL University, graduating 2026.
 
 - Shipped **[sayamen.in](https://sayamen.in)** — a live production platform (99%+ uptime, 30% latency reduction)
 - Built **Fake Job Detection AI** — LSTM + NLP model with **93-95% classification accuracy**
-- Engineered with GitHub Copilot, Claude Code & Azure AI Studio in human-in-the-loop workflows
+- Engineered with GitHub Copilot & Azure AI Studio in human-in-the-loop workflows
 - Dual degree advantage: CS Engineering + Finance — I think in systems **and** business impact
 
 ---
